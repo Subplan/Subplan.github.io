@@ -1,4 +1,4 @@
-[Privacy policy](README.md) | [Terms & conditions](terms&conditions.md) 
+[Privacy policy](README.md) | [Terms & conditions](Terms&conditions.md) 
 
 -------------------------------------------------------------------------------------
 
