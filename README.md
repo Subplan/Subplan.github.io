@@ -5,7 +5,7 @@
 
 # Privacy Policy – Subplan
 
-**Last updated:** [fill in date]
+**Last updated:** [24-02-2026]
 
 Subplan (“we”, “us”, or “our”) respects your privacy and is committed to protecting your data. By downloading, installing, or using the Subplan app (“App”), and by actively accepting this Privacy Policy, you agree to its terms. If you do not agree, do not use the App.
 
