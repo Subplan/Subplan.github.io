@@ -1,3 +1,8 @@
+[Privacy policy](README.md) | [Terms & conditions](terms&conditions.md) 
+
+-------------------------------------------------------------------------------------
+
+
 # Privacy Policy – Subplan
 
 **Last updated:** [fill in date]
