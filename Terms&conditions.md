@@ -1,6 +1,10 @@
+[Privacy policy](README.md) | [Terms & conditions](terms&conditions.md) 
+
+-------------------------------------------------------------------------------------
+
 # Terms & Conditions – Subplan
 
-**Last updated:** [fill in date]
+**Last updated:** [02-24-2026]
 
 Welcome to Subplan. These Terms & Conditions (“Terms”) govern your use of the Subplan app (“App”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use Subplan.
 
