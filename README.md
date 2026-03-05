@@ -5,7 +5,7 @@
 
 # Privacy Policy – Subplan
 
-**Last updated:** [24-02-2026]
+**Last updated:** [05-03-2026]
 
 Subplan (“we”, “us”, or “our”) respects your privacy and is committed to protecting your data. By downloading, installing, or using the Subplan app (“App”), and by actively accepting this Privacy Policy, you agree to its terms. If you do not agree, do not use the App.
 
@@ -56,6 +56,8 @@ We use your data for the following purposes:
 4. Prevent errors, crashes, fraud, or misuse of the App  
 5. Comply with legal obligations if required
 
+Data such as IP addresses and Device Identifiers are used specifically for security purposes, including fraud prevention, abuse detection, and enforcing connection limits (rate-limiting). This is processed based on Subplan’s legitimate interest in maintaining the integrity and availability of the App.
+
 **Your data is used solely for the App’s functionality and improvement. It will not be sold, shared for marketing, or used for profit.**
 
 ---
@@ -70,9 +72,7 @@ We use your data for the following purposes:
 
 ## 5. Data Retention
 
-- Data is retained **only as long as necessary** to support the App and comply with legal requirements  
-- Usage data may be retained longer for debugging, analytics, or app improvement  
-- Once deleted or when no longer needed, data is permanently removed
+Personal data is deleted once it is no longer necessary for the operation of the App or when you request deletion via the 'Delete Data' function. Technical connection logs (such as IP addresses used for security) are retained for a maximum of 30 days to prevent abuse and are then automatically and permanently removed.
 
 ---
 
@@ -132,6 +132,8 @@ To the **maximum extent permitted by law**:
 
 - Use of the App is **entirely at your own risk**  
 - Nothing in this Privacy Policy limits liability that cannot be limited under applicable law
+
+- The App is provided on an 'AS IS' and 'AS AVAILABLE' basis, without any warranties of any kind, either express or implied.
 
 ---
 
