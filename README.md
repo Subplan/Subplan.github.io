@@ -5,7 +5,7 @@
 
 # Privacy Policy – Subplan
 
-**Last updated:** [05-03-2026]
+**Last updated:** [06-03-2026]
 
 Subplan (“we”, “us”, or “our”) respects your privacy and is committed to protecting your data. By downloading, installing, or using the Subplan app (“App”), and by actively accepting this Privacy Policy, you agree to its terms. If you do not agree, do not use the App.
 
@@ -72,7 +72,7 @@ Data such as IP addresses and Device Identifiers are used specifically for secur
 
 ## 5. Data Retention
 
-Personal data is deleted once it is no longer necessary for the operation of the App or when you request deletion via the 'Delete Data' function. Technical connection logs (such as IP addresses used for security) are retained for a maximum of 30 days to prevent abuse and are then automatically and permanently removed.
+Personal data is deleted once it is no longer necessary for the operation of the App or when you request deletion via the 'Delete Data' function. Technical connection logs (such as IP addresses used for security) are retained for a maximum of 90 days to prevent abuse and are then automatically and permanently removed.
 
 ---
 
