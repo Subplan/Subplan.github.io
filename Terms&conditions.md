@@ -4,7 +4,7 @@
 
 # Terms & Conditions – Subplan
 
-**Last updated:** [02-24-2026]
+**Last updated:** [06-03-2026]
 
 Welcome to Subplan. These Terms & Conditions (“Terms”) govern your use of the Subplan app (“App”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use Subplan.
 
@@ -24,7 +24,7 @@ By using the App, you acknowledge that you have read, understood, and agree to t
 - The App provides reminders, analytics, and insights to help you track your subscriptions.  
 - The App is **not intended for children under 13**.  
 
-We do not guarantee uninterrupted or error-free operation. Use is at your own risk.
+Subplan is a tool for personal organization only. It does not provide financial or professional advice. The App's analytics and reminders are based on information provided by you and are for informational purposes only. Use it at your own risk
 
 ---
 
@@ -43,19 +43,21 @@ You agree to:
 
 To the **maximum extent permitted by law**:
 
-- Use of the App is **entirely at your own risk**.  
-- We are **not liable** for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to:  
-  - Missed reminders or notifications  
-  - Data loss or corruption  
-  - Device incompatibility or crashes  
-- Nothing in these Terms limits liability that cannot be legally limited.  
+LIMITATION OF LIABILITY – READ CAREFULLY: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SUBPLAN AND ITS CREATORS SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR FINANCIAL LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE APP.
+
+SPECIFICALLY REGARDING NOTIFICATIONS: SUBPLAN DOES NOT GUARANTEE THAT NOTIFICATIONS WILL BE DELIVERED, TIMELY, OR ACCURATE. YOU ACKNOWLEDGE THAT NOTIFICATIONS MAY FAIL DUE TO SYSTEM ERRORS, DEVICE SETTINGS, OR INTERNET CONNECTIVITY. THE FINAL RESPONSIBILITY TO TRACK, MANAGE, AND CANCEL YOUR SUBSCRIPTIONS RESTS SOLELY WITH YOU. SUBPLAN IS NOT LIABLE FOR ANY SUBSCRIPTION RENEWALS, CHARGES, OR LOSSES INCURRED AS A RESULT OF A FAILED OR MISSED NOTIFICATION.
+
+We do not warrant that App information (including renewal dates, prices, or categories) is always accurate, complete, or up-to-date. You are solely responsible for verifying your subscription details with the respective service providers.
+
+Nothing in these Terms limits liability that cannot be legally limited.  
 
 ---
 
 ## 5. Intellectual Property
 
 - All App content, including design, icons, and code, is the property of Subplan.  
-- You may **not copy, distribute, or modify** any part of the App without explicit permission.  
+- You may **not copy, distribute, or modify** any part of the App without explicit permission.
+- All trademarks, service marks, logos, and company names used within the App that are not owned by Subplan are the property of their respective owners. Their use does not imply any affiliation with or endorsement by them.
 
 ---
 
@@ -89,11 +91,18 @@ To the **maximum extent permitted by law**:
 - For users outside the Netherlands, local mandatory consumer protections apply.  
 
 ---
+## 10. Total Release and Indemnification
 
-## 10. Contact
+INDEMNIFICATION AND RELEASE: BY USING THE APP, YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS SUBPLAN AND ITS DEVELOPERS FROM ANY AND ALL CLAIMS, DAMAGES, LOSSES, LIABILITIES, AND EXPENSES (INCLUDING LEGAL FEES) ARISING FROM YOUR USE OF THE APP OR YOUR VIOLATION OF THESE TERMS.
+
+YOU AGREE TO RELEASE SUBPLAN AND ITS DEVELOPERS FROM ANY AND ALL CLAIMS RELATED TO THE PERFORMANCE, RELIABILITY, OR ACCURACY OF THE APP. IF YOU ARE DISSATISFIED WITH THE APP, OR IF YOU INCUR ANY LOSS AS A RESULT OF USING THE APP, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING IT AND UNINSTALL IT FROM YOUR DEVICE. YOU EXPRESSLY WAIVE THE RIGHT TO BRING ANY LEGAL ACTION AGAINST SUBPLAN AND ITS DEVELOPERS.
+
+---
+
+## 11. Contact
 
 For questions or concerns:
 
-**Email:** [your contact email]  
+**Email:** [your contact email]
 **App name:** Subplan  
-**Website:** [your website link]
+**Website:** [your website link](https://subplan.github.io)
