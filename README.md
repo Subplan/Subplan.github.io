@@ -9,7 +9,7 @@
 
 Subplan (“we”, “us”, or “our”) respects your privacy and is committed to protecting your data. By downloading, installing, or using the Subplan app (“App”), and by actively accepting this Privacy Policy, you agree to its terms. If you do not agree, do not use the App.
 
-This App is provided **entirely free of charge**. No payments, purchases, or monetization are involved at this time. All data collected is used solely for the operation, maintenance, and improvement of the App.
+This App is provided **entirely free of charge**. No payments, purchases, or monetization are involved at this time. All data collected is used solely for the operation, maintenance, and improvement of the app.
 
 ---
 
