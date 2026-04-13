@@ -5,7 +5,7 @@
 
 # Privacy Policy – Subplan
 
-**Last updated:** [06-03-2026]
+**Last updated:** [13-04-2026]
 
 Subplan (“we”, “us”, or “our”) respects your privacy and is committed to protecting your data. By downloading, installing, or using the Subplan app (“App”), and by actively accepting this Privacy Policy, you agree to its terms. If you do not agree, do not use the App.
 
@@ -58,6 +58,8 @@ We use your data for the following purposes:
 
 Data such as IP addresses and Device Identifiers are used specifically for security purposes, including fraud prevention, abuse detection, and enforcing connection limits (rate-limiting). This is processed based on Subplan’s legitimate interest in maintaining the integrity and availability of the App.
 
+As the app maker, we may access and review this information to identify bugs, analyze usage patterns, and develop new features.
+
 **Your data is used solely for the App’s functionality and improvement. It will not be sold, shared for marketing, or used for profit.**
 
 ---
@@ -67,12 +69,15 @@ Data such as IP addresses and Device Identifiers are used specifically for secur
 - Data is stored on secure backend servers with industry-standard protections  
 - Access is restricted to personnel responsible for app maintenance  
 - No system can guarantee 100% security; Subplan is **not liable** for unauthorized access, breaches, or data loss
+- Access to data is restricted to the app maker and specific personnel responsible for maintenance, security auditing, and technical support.
 
 ---
 
 ## 5. Data Retention
 
-Personal data is deleted once it is no longer necessary for the operation of the App or when you request deletion via the 'Delete Data' function. Technical connection logs (such as IP addresses used for security) are retained for a maximum of 90 days to prevent abuse and are then automatically and permanently removed.
+Personal data is deleted once it is no longer necessary for the operation of the App or when you request deletion via the 'Delete Data' function. Technical connection logs (such as IP addresses used for security) are retained for a maximum of 90 days to prevent abuse and are then automatically and permanently removed. 
+
+Technical connection logs are retained for a maximum of 90 days and are then automatically and permanently removed. However, data associated with malicious activity, hacking attempts, or violations of our Terms may be retained indefinitely on a blocklist to protect the App and its users.
 
 ---
 
