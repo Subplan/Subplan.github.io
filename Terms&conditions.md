@@ -4,7 +4,7 @@
 
 # Terms & Conditions – Subplan
 
-**Last updated:** [06-03-2026]
+**Last updated:** [09-07-2026]
 
 Welcome to Subplan. These Terms & Conditions (“Terms”) govern your use of the Subplan app (“App”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use Subplan.
 
@@ -103,6 +103,6 @@ YOU AGREE TO RELEASE SUBPLAN AND ITS DEVELOPERS FROM ANY AND ALL CLAIMS RELATED 
 
 For questions or concerns:
 
-**Email:** [your contact email]
+**Email:** subplanapp@gmail.com
 **App name:** Subplan  
-**Website:** [your website link](https://subplan.github.io)
+**Website:** (https://subplan.github.io)
