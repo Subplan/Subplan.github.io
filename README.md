@@ -5,7 +5,7 @@
 
 # Privacy Policy – Subplan
 
-**Last updated:** [13-04-2026]
+**Last updated:** [09-07-2026]
 
 Subplan (“we”, “us”, or “our”) respects your privacy and is committed to protecting your data. By downloading, installing, or using the Subplan app (“App”), and by actively accepting this Privacy Policy, you agree to its terms. If you do not agree, do not use the App.
 
@@ -106,7 +106,7 @@ We **do not sell, trade, or use your data for advertising or commercial purposes
 
 - You can delete your data at any time using the App’s **Delete Data** function  
 - You have rights under applicable laws (e.g., GDPR), including access, correction, or deletion requests  
-- Requests may also be sent via **[your contact email]**
+- Requests may also be sent via subplanapp@gmail.com
 
 ---
 
@@ -154,6 +154,6 @@ To the **maximum extent permitted by law**:
 
 For questions about this Privacy Policy or your data:
 
-**Email:** [your contact email]  
+**Email:** subplanapp@gmail.com                                                                                                                                                             
 **App name:** Subplan  
-**Website:** [your website link]
+**Website:** https://subplan.github.io 
