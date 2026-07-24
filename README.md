@@ -5,11 +5,11 @@
 
 # Privacy Policy – Subplan
 
-**Last updated:** [09-07-2026]
+**Last updated:** [24-07-2026]
 
 Subplan (“we”, “us”, or “our”) respects your privacy and is committed to protecting your data. By downloading, installing, or using the Subplan app (“App”), and by actively accepting this Privacy Policy, you agree to its terms. If you do not agree, do not use the App.
 
-This App is provided **entirely free of charge**. No payments, purchases, or monetization are involved at this time. All data collected is used solely for the operation, maintenance, and improvement of the app.
+The App is free to download. It offers an optional one-time in-app purchase ('Subplan Premium') that unlocks extra features, plus optional tips. Purchases are processed by Apple through the App Store; we never receive or store your payment card details.
 
 ---
 
@@ -32,8 +32,10 @@ We may automatically collect:
 
 - Device information: type, model, operating system, unique device identifier  
 - IP address and approximate location  
-- App usage statistics: pages viewed, time spent, interactions  
+- Basic request logs: which app actions are performed and when (used to detect abuse and to improve the App)
 - Diagnostic data: crash logs, error reports, app performance metrics
+
+The unique device identifier is a random value stored in your device's Keychain, not linked to your name or Apple ID. It may persist if you reinstall the App, and is used to keep your data separate and to enforce security limits.
 
 ### 2.2 User-Provided Data
 You may voluntarily provide:
@@ -42,8 +44,11 @@ You may voluntarily provide:
 - Preferences: language, currency, theme, notification settings  
 - Optional personal name for personalization
 
-**No other personal information is required.** We do not collect financial data, payment info, or sensitive personal data.
+No other personal information is required. The subscription details you enter (such as prices and billing cycles) are financial information that you provide to organize your own spending. We never receive or store payment card numbers or bank details — in-app purchases are handled entirely by Apple. We do not collect special categories of sensitive personal data.
 
+
+### 2.3 App Lock (optional, Premium)
+You can lock the App with Face ID, Touch ID or your device passcode. Authentication is performed entirely by iOS; the App never sees or stores your biometric data. We only store an on/off setting on your device.
 ---
 
 ## 3. Purpose of Data Collection
@@ -83,20 +88,20 @@ Technical connection logs are retained for a maximum of 90 days and are then aut
 
 ## 6. Data Sharing and Disclosure
 
-Since the App is **free and non-commercial**, data sharing is extremely limited. We may only disclose data in the following cases:
+We keep data sharing to a minimum. We may only share data in the following cases:
 
-1. **Service Providers**: third-party services that assist with hosting, analytics, or technical maintenance  
-2. **Legal Requirements**: to comply with law or legal requests  
-3. **Consent**: only if you explicitly permit disclosure
+Service Providers: We use Supabase (database and backend hosting) and Apple (App Store purchases and notification delivery) to operate the App. Our backend is hosted in Central EU (Frankfurt). We do not use third-party advertising or analytics SDKs.
+Legal Requirements: to comply with applicable law or valid legal requests.
+Consent: only if you explicitly permit disclosure.
 
-We **do not sell, trade, or use your data for advertising or commercial purposes**.
+Although the App offers optional paid features (Premium and tips), we still do not sell, trade, rent, or share your personal data for advertising or marketing purposes.
 
 ---
 
 ## 7. Children’s Privacy
 
-- The App is **not intended for children under 13**  
-- We do **not knowingly collect data** from children under 13  
+- The App is **not intended for children under 16**  
+- We do **not knowingly collect data** from children under 16  
 - If we become aware of such data, it is immediately deleted  
 - Parents may request removal of their child’s data at any time
 
@@ -107,6 +112,7 @@ We **do not sell, trade, or use your data for advertising or commercial purposes
 - You can delete your data at any time using the App’s **Delete Data** function  
 - You have rights under applicable laws (e.g., GDPR), including access, correction, or deletion requests  
 - Requests may also be sent via subplanapp@gmail.com
+- If you are in the EU, you also have the right to lodge a complaint with your data protection authority (in the Netherlands: Autoriteit Persoonsgegevens).
 
 ---
 
@@ -152,8 +158,10 @@ To the **maximum extent permitted by law**:
 
 ## 13. Contact
 
+Data Controller: Sergio Matla, reachable at subplanapp@gmail.com.
+
 For questions about this Privacy Policy or your data:
 
 **Email:** subplanapp@gmail.com                                                                                                                                                             
 **App name:** Subplan  
-**Website:** https://subplan.github.io 
+**Website:** (https://subplan.github.io)
