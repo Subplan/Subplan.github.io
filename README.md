@@ -114,6 +114,7 @@ Although the App offers optional paid features (Premium and tips), we still do n
 - You have rights under applicable laws (e.g., GDPR), including access, correction, or deletion requests  
 - Requests may also be sent via subplanapp@gmail.com
 - If you are in the EU, you also have the right to lodge a complaint with your data protection authority (in the Netherlands: Autoriteit Persoonsgegevens).
+- You can export your own data as an encrypted, password-protected backup file, and restore it later. Once you export and share this file, it leaves the App and you are responsible for storing it safely and for keeping the password — anyone who has both the file and the password can read the data inside it.
 
 ---
 
