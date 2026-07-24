@@ -49,6 +49,7 @@ No other personal information is required. The subscription details you enter (s
 
 ### 2.3 App Lock (optional, Premium)
 You can lock the App with Face ID, Touch ID or your device passcode. Authentication is performed entirely by iOS; the App never sees or stores your biometric data. We only store an on/off setting on your device.
+
 ---
 
 ## 3. Purpose of Data Collection
