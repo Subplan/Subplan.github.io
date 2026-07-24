@@ -4,12 +4,11 @@
 
 # Terms & Conditions – Subplan
 
-**Last updated:** [09-07-2026]
+**Last updated:** [24-07-2026]
 
 Welcome to Subplan. These Terms & Conditions (“Terms”) govern your use of the Subplan app (“App”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use Subplan.
 
-The App is provided **completely free of charge**. No payments, subscriptions, or advertisements are required.
-
+The App is free to download. Some features are free; others require a one-time in-app purchase ('Subplan Premium'). The App also offers optional tips. There are no advertisements.
 ---
 
 ## 1. Acceptance of Terms
@@ -22,13 +21,18 @@ By using the App, you acknowledge that you have read, understood, and agree to t
 
 - The App allows you to manage subscriptions, free trials, and payments.  
 - The App provides reminders, analytics, and insights to help you track your subscriptions.  
-- The App is **not intended for children under 13**.  
+- The App is **not intended for children under 16**.  
 
 Subplan is a tool for personal organization only. It does not provide financial or professional advice. The App's analytics and reminders are based on information provided by you and are for informational purposes only. Use it at your own risk
 
 ---
 
-## 3. Use of the App
+## 3. Purchases (Premium & Tips)
+Subplan offers 'Subplan Premium', a one-time in-app purchase that permanently unlocks extra features on your device. It is not an auto-renewing subscription — you are charged once. Subplan also offers optional 'tips' (voluntary purchases that unlock no features). All purchases are processed by Apple via the App Store under Apple's terms; prices are shown before purchase and may change. You can restore a previous Premium purchase via 'Restore Purchases' in the App. Refunds are handled solely by Apple; we cannot issue refunds directly.
+
+---
+
+## 4. Use of the App
 
 You agree to:
 
@@ -39,7 +43,7 @@ You agree to:
 
 ---
 
-## 4. Disclaimer and Limitation of Liability
+## 5. Disclaimer and Limitation of Liability
 
 To the **maximum extent permitted by law**:
 
@@ -53,7 +57,7 @@ Nothing in these Terms limits liability that cannot be legally limited.
 
 ---
 
-## 5. Intellectual Property
+## 6. Intellectual Property
 
 - All App content, including design, icons, and code, is the property of Subplan.  
 - You may **not copy, distribute, or modify** any part of the App without explicit permission.
@@ -61,14 +65,14 @@ Nothing in these Terms limits liability that cannot be legally limited.
 
 ---
 
-## 6. Privacy and Data
+## 7. Privacy and Data
 
 - Collection, use, and storage of your data are described in our **Privacy Policy**.  
 - You consent to data processing necessary for the App’s operation and maintenance.  
 
 ---
 
-## 7. Termination
+## 8. Termination
 
 - We may discontinue or terminate your access to the App at any time without notice.  
 - You may uninstall the App at any time.  
@@ -76,7 +80,7 @@ Nothing in these Terms limits liability that cannot be legally limited.
 
 ---
 
-## 8. Updates
+## 9. Updates
 
 - The App and these Terms may be updated periodically.  
 - You will be notified of significant changes via in-app notification or other reasonable means.  
@@ -84,14 +88,14 @@ Nothing in these Terms limits liability that cannot be legally limited.
 
 ---
 
-## 9. Governing Law and Jurisdiction
+## 10. Governing Law and Jurisdiction
 
 - These Terms are governed by the laws of the Netherlands.  
 - Any disputes will be resolved in Dutch courts.  
 - For users outside the Netherlands, local mandatory consumer protections apply.  
 
 ---
-## 10. Total Release and Indemnification
+## 11. Total Release and Indemnification
 
 INDEMNIFICATION AND RELEASE: BY USING THE APP, YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS SUBPLAN AND ITS DEVELOPERS FROM ANY AND ALL CLAIMS, DAMAGES, LOSSES, LIABILITIES, AND EXPENSES (INCLUDING LEGAL FEES) ARISING FROM YOUR USE OF THE APP OR YOUR VIOLATION OF THESE TERMS.
 
@@ -99,7 +103,7 @@ YOU AGREE TO RELEASE SUBPLAN AND ITS DEVELOPERS FROM ANY AND ALL CLAIMS RELATED 
 
 ---
 
-## 11. Contact
+## 12. Contact
 
 For questions or concerns:
 
